@@ -16,7 +16,9 @@ Os dados foram extraídos de registros públicos e incluem informações sobre c
 realizadas entre janeiro e junho de 2015. A base é composta por aproximadamente 55.000
 registros, cobrindo diversos aspectos das viagens, como latitude e longitude de partida e
 destino, número de passageiros e valor da tarifa.
+
 **Dados contidos no dataset** 
+
 ● key – Identificador único da corrida.
 
 ● fare_amount – Valor da tarifa da corrida em dólares.
@@ -36,30 +38,30 @@ destino, número de passageiros e valor da tarifa.
 ## Objetivos: 
 
 ● Explorar os fatores que influenciam o preço das corridas: 
-- Analisar como variáveis como distância, horário e número de passageiros
+1. Analisar como variáveis como distância, horário e número de passageiros
 afetam a tarifa.
 
-- Identificar padrões sazonais e variações de preço ao longo do tempo.
+2. Identificar padrões sazonais e variações de preço ao longo do tempo.
   
 ● Criar um modelo preditivo para estimar tarifa
 
-- Desenvolver um modelo de Aprendizado de Máquina para prever o valor da
+1. Desenvolver um modelo de Aprendizado de Máquina para prever o valor da
 corrida com base nas variáveis disponíveis.
 
 ● Limpar e preparar os dados para garantir qualidade na análise
 
-- Identificar e tratar valores ausentes, duplicados ou inconsistentes.
+1. Identificar e tratar valores ausentes, duplicados ou inconsistentes.
   
-- Normalizar e transformar os dados conforme necessário.
+2. Normalizar e transformar os dados conforme necessário.
   
 ● Modelar e armazenar os dados de forma eficiente
 
-- Criar um esquema de banco de dados para organização e consulta eficiente das
+1. Criar um esquema de banco de dados para organização e consulta eficiente das
 informações.
 
 ● Desenvolver um pipeline de processamento de dados
 
-- Estruturar um fluxo automatizado para ingestão, limpeza e análise dos dados,
+1. Estruturar um fluxo automatizado para ingestão, limpeza e análise dos dados,
 aplicando conceitos de Engenharia de Software.
 
 ## Metas
