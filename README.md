@@ -17,14 +17,14 @@ realizadas entre janeiro e junho de 2015. A base é composta por aproximadamente
 registros, cobrindo diversos aspectos das viagens, como latitude e longitude de partida e
 destino, número de passageiros e valor da tarifa.
 **Dados contidos no dataset** 
-● key – Identificador único da corrida
-● fare_amount – Valor da tarifa da corrida em dólares
-● pickup_datetime – Data e horário do início da corrida
-● passenger_count – Número de passageiros informados pelo motorista
-● pickup_longitude – Longitude do local de embarque
-● pickup_latitude – Latitude do local de embarque
-● dropoff_longitude – Longitude do local de desembarque
-● dropoff_latitude – Latitude do local de desembarque
+● key – Identificador único da corrida.
+● fare_amount – Valor da tarifa da corrida em dólares.
+● pickup_datetime – Data e horário do início da corrida.
+● passenger_count – Número de passageiros informados pelo motorista.
+● pickup_longitude – Longitude do local de embarque.
+● pickup_latitude – Latitude do local de embarque.
+● dropoff_longitude – Longitude do local de desembarque.
+● dropoff_latitude – Latitude do local de desembarque.
 ## Objetivos: 
 ● Explorar os fatores que influenciam o preço das corridas: 
 - Analisar como variáveis como distância, horário e número de passageiros
